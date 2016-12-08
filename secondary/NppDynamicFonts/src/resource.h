@@ -1,0 +1,8 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define IDD_DIALOG_DYNAMICFONTS_OPTION          300
+#define IDC_COMBO_DYNAMICFONT_SIZE              3001
+#define IDC_COMBO_DYNAMICFONT_SELECT            3002
+#define IDC_CHECKBOX_DYNAMICFONTS_ENABLE        3003

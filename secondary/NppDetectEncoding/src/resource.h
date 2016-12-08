@@ -1,0 +1,9 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define IDD_DIALOG_DETECTENCODING_OPTION        200
+#define IDC_CHECKBOX_DETECTENCODING             2000
+#define IDC_CHECKBOX_OPENSHORTCUT               2001
+#define IDC_EDIT_CHECKBUFFERSIZE                2002
+#define IDC_CHECKBOX_EUCJPENCODING              2003
